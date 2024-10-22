@@ -1,0 +1,32 @@
+{
+  "max-nested-blocks": 4,
+  "max-args": 5,
+  "max-line-length": 80,
+  "allowed-io": ["__main__"],
+  "allowed-import-modules": [
+    "doctest",
+    "typing",
+    "io"
+  ],
+  "disable": [
+    "W0401", "C0325", "E0102", "C0209",
+    "R0903",
+    "R0904",
+    "R1710",
+    "W0105",
+    "C0123",
+    "C0200",
+    "C0327",
+    "C0328",
+    "W0232",
+    "W0231",
+    "R0201",
+    "C0413",
+    "W0611",
+    "R1706",
+    "C0303",
+    "R1732",
+    "E9997",
+    "C0103"
+  ]
+}
